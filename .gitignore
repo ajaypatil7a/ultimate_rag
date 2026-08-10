@@ -221,3 +221,6 @@ __marimo__/
 #FAISS and Chroma vector store files
 *.faiss
 *.pkl
+
+# qdrant vector store files
+*qdrant*
